@@ -71,7 +71,7 @@
                     <input class='form-control', type='text' id='nik' name='nik'>
                 </div>
                 <div class='form-group '>
-                    <label for='email'>EmaiL</label>
+                    <label for='email'>Email</label>
                     <input class='form-control', type='email' id='email' name='email'>
                 </div>
                 <div class='form-group '>
