@@ -8,3 +8,9 @@ dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka
 Aamiin
 
 ## Deskripsi Program
+
+Program ini merupakan program untuk mengelola data pasien. Program ini menerapkan arsitektur MVP (Model View Presenter) dalam pembuatannya. Terdapat fitur CRUD standar untuk menambahkan data pasien baru, mengedit data pasien lama, menghapus data pasien, dan menampilkan data pasien dalam bentuk tabel.
+
+## Preview Program
+
+![Home](image.png)
